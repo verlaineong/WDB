@@ -10,4 +10,4 @@
 • As a user, I want to browse through the catalog of available pets to find which one to rent.
 
 **Wireframes**
-
+![Screenshot 2023-11-11 183539](https://github.com/verlaineong/WDB/assets/149797881/553c330b-6a0f-4fac-b3b7-2216c1291632)
