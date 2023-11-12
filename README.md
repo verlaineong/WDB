@@ -70,7 +70,15 @@ The photos used in this site were obtained from
 [Maltipoo Png](https://pin.it/2E3C6X1)
 
 Dog Drawings were drawn by Verlaine, using Procreate.
+
 [Google Drive](https://drive.google.com/drive/folders/1TUqildWMv9UJ-qmEs8xg_la1dD2MpJam?usp=drive_link)
+
+Icons of Social Media Platforms were obtained from
+
+[Instagram icon](https://www.flaticon.com/free-icon/instagram_4770100)
+[Telegram icon](https://www.iconsdb.com/orange-icons/telegram-3-icon.html)
+[Whatapps icon](https://icones.pro/en/whatsapp-orange-logo-icon/)
+
 
 ### Acknowledgements
 
