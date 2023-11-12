@@ -102,6 +102,7 @@ Icons of Social Media Platforms were obtained from
 [Instagram icon](https://www.flaticon.com/free-icon/instagram_4770100)
 [Telegram icon](https://www.iconsdb.com/orange-icons/telegram-3-icon.html)
 [Whatapps icon](https://icones.pro/en/whatsapp-orange-logo-icon/)
+[Checkbox icon](https://icon-icons.com/icon/checkbox/149960)
 
 
 ### Acknowledgements
