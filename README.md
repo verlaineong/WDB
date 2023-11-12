@@ -75,6 +75,7 @@ Social Media icon - Allows users to navigate to the company's social media page.
 ## Credits
 
 ### Content
+• As this is a fictional website, the contents are not copied from anywhere.
 
 ### Media
 
@@ -105,4 +106,6 @@ Icons of Social Media Platforms were obtained from
 
 ### Acknowledgements
 
+• I received inspiration for this project from 
+https://www.thelovelypets.com/
 
