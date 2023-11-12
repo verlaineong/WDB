@@ -15,3 +15,4 @@ Desktop
 ![Screenshot 2023-11-11 183539](https://github.com/verlaineong/WDB/assets/149797881/553c330b-6a0f-4fac-b3b7-2216c1291632)
 
 Mobile
+![Screenshot 2023-11-11 183603](https://github.com/verlaineong/WDB/assets/149797881/42d3b04b-a91d-4112-ac2a-f7ad2338483e)
