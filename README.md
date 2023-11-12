@@ -9,4 +9,5 @@
 
 • As a user, I want to browse through the catalog of available pets to find which one to rent.
 
+**Wireframes**
 
