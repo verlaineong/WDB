@@ -37,7 +37,7 @@ Mobile
 
 •  **Visuals**
 
-I chose orange and beige as my brand colour. The colour orange is associated with energy, enthusiasm and playfulness. It conveys the excitement, which aligns well with the joy and liveliness that dogs can bring into people's lives. The colour beige is a neutral and warm colour that evokes the feelings of comfort, which aligns with the service provided by Rent Buddy brand. For the design, I created adorable drawings of dogs and strategically placed them throughout the site, in the banners and icons. The goal is to make the website not only informative but also visually pleasing.
+I chose orange and beige as my brand colour. The colour orange is associated with energy, enthusiasm and playfulness. It conveys the excitement, which aligns well with the joy and liveliness that dogs can bring into people's lives. The colour beige is a neutral and warm colour that evokes the feelings of comfort, which aligns with the service provided by Rent Buddy brand. For the design, I created adorable drawings of dogs and strategically placed them throughout the site, in the banners and as icons. The goal is to make the website not only informative but also visually pleasing.
 
 
 •  **Layout and Structure**
