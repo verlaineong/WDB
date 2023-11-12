@@ -1,4 +1,11 @@
-# A first-level heading
+# Rent Buddy Webpage
+
+This is a fictional company, Rent Buddy.
+ 
+Our company is a company that allows individual or families to rent a dog of their choice.
+
+Our pet rental service allows you to "test-drive" the experience of owning a dog. Renting a dog from us provides a hands-on opportunity to understand the responsibilities, joys, and companionship that come with having a pet. It's the perfect way to assess if dog ownership aligns with your lifestyle before making a permanent decision. Additionally,  our service could be catered to people who wants to exprience the feeling of what it's like to rent a different dog breed.
+
 ## Design Process
 
 User audience may be individuals or families looking to experience the pleasure of having a pet without the long term commitment. The website serves as a platform for users to explore our catalogue of friendly companions, showcasing the variety of pets available for rental. Visitors can discover the different dog breeds we offer and learn about the numerous benefits of choosing our pet rental service. Additionally, the website provides functionality for users to easily make bookings. The website is targeted to people who are interested in booking their time with our rental dogs / interested in knowing more about our brand or dogs available to be rented.
