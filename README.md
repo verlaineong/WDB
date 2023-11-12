@@ -1,6 +1,8 @@
 # A first-level heading
 ## Design Process
 
+User audience may be individuals or families looking to experience the pleasure of having a pet without the long term commitment.The website serves as a platform for users to explore our catalogue of friendly companions, showcasing the variety of pets available for rental. Visitors can discover the different dog breeds we offer and learn about the numerous benefits of choosing our pet rental service. Additionally, the website provides functionality for users to easily make bookings. The website is targeted to people who are interested in booking their time with our rental dogs / interested in knowing more about our brand or dogs available to be rented.
+
 • As a user, I want to see customer  testimonials on the Rent Buddy website to gain insights into the experiences of others who have rented pets through this service.
 
 • As a user, I want a straightforward and user-friendly booking system on the Rent Buddy website, allowing me to easily make a booking.
