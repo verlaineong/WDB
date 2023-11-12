@@ -55,6 +55,14 @@ About - Allows users who are curious about how the brand started to read about t
 
 ### Media
 
+The photos used in this site were obtained from
+[Samoyed Png](https://pin.it/4j5Q4KQ)
+[Corgi Png](https://pin.it/69JhGkM)
+[Pomeranian Png](https://pin.it/ChlceqA)
+[Husky Png](https://pin.it/AAIhESA)
+[Golden Retriever Png](https://pin.it/2v5WMku)
+[Maltipoo Png](https://pin.it/2E3C6X1)
+
 ### Acknowledgements
 
 
