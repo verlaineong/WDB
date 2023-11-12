@@ -39,6 +39,13 @@ I want my website layout to look clean and simple. The goal is to provide just t
 
 
 
+
+
+
+When designing the website, I took the booking process user-friendliness into consideration. Users can select their preferred dog for renting, and to facilitate this, I included visual ads with images. Currently, there is one dog available for each breed. However, considering future expansions with more dogs, users may not easily recall each dog's name and might need to repeatedly check back.
+
+
+
 ## Features
 ### Exsiting Features
 
