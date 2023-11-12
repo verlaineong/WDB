@@ -45,6 +45,12 @@ Contact us - Allows users who are interested in renting a dog to sign up an apll
 
 About - Allows users who are curious about how the brand started to read about the brand's story.
 
+Click here - Allows users who are in the dog information page to easily navigate to the application form.
+
+Dog catalog - Allows users to visit the page with information of the dog breed they want to view.
+
+Social Media icon - Allows users to navigate to the company's social media page.
+
 ## Technologies Used
 
 ## Testing
