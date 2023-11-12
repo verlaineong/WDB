@@ -26,4 +26,16 @@ Contact us - Allows users who are interested in renting a dog to sign up an apll
 
 About - Allows users who are curious about how the brand started to read about the brand's story.
 
+## Technologies Used
+
+## Testing
+
+## Credits
+
+### Content
+
+### Media
+
+### Acknowledgements
+
 
