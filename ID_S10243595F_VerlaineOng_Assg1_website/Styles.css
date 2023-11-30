@@ -313,7 +313,7 @@ p{
 
 .contact-box
 {
-    width: 500;
+    width: 1000;
     background-color: #f9f9f9;
     box-shadow: 0 0 20px 0;
     top: 50%;
@@ -323,6 +323,17 @@ p{
     
 }
 
+
+form{
+    margin: 100px 100px;
+}
+
+
+.inputs
+{
+    width:400px;
+    height; 40px;
+}
 
 
 
