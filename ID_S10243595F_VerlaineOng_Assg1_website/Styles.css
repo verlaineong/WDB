@@ -49,27 +49,21 @@ header {
     color: #f9f9f9;
 }
 
+
+/* 6  dogs images setting */
 .title {
     margin-top: 0;
     position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 90vh;
+    height: 70vh;
 }
-
-
-
 
 .mainpic img {
     width: 100%;
     height: auto
   }
-
-.end img {
-    width: 100%;
-    height: auto;
-}
 
 
 /* mobile responsiveness */
@@ -311,29 +305,32 @@ p{
 
 /* contact form style starts here */
 
-.contact-box
-{
-    width: 1000;
-    background-color: #f9f9f9;
-    box-shadow: 0 0 20px 0;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    position: absolute;
-    
+.card4 {
+    background-color: rgb(255, 219, 177);
+    width: 600px;
+    height: 800px;
+    margin: 100px 200px; /* give the card space between each other */
+    padding: 90px 100px;
+}
+
+.card4 p{
+    margin-bottom: 15px;
 }
 
 
-form{
-    margin: 100px 100px;
-}
 
 
-.inputs
-{
-    width:400px;
-    height; 40px;
-}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
