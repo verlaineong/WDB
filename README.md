@@ -56,17 +56,19 @@ When designing the website, I took the booking process user-friendliness into co
 ## Features
 ### Exsiting Features
 
-Friendly-Buddies - Allows users to look at the catalog of different dog breeds.
+Buddies - Allows users to look at the catalog of different dog breeds.
 
-Contact us - Allows users who are interested in renting a dog to sign up an apllication form for the company to contact them later.
+Contact us - Allows users who are interested in renting a dog to contact the company, the company will contact them later.
 
 About - Allows users who are curious about how the brand started to read about the brand's story.
 
-Click here - Allows users who are in the dog information page to easily navigate to the application form.
+Click here  - Allows users who are in the dog information page to easily navigate to the application form.
 
 Dog catalog - Allows users to visit the page with information of the dog breed they want to view.
 
 Social Media icon - Allows users to navigate to the company's social media page.
+
+Brand logo - Allows user to navigate to homepage.
 
 ## Technologies Used
 
@@ -83,7 +85,7 @@ The photos used in this site were obtained from
 
 [Samoyed Png](https://pin.it/4j5Q4KQ)
 
-[Corgi Png](https://pin.it/69JhGkM)
+[Corgi Png](https://pin.it/51mo8KT)
 
 [Pomeranian Png](https://pin.it/ChlceqA)
 
