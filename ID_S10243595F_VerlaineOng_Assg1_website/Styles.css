@@ -313,26 +313,30 @@ p{
 
 .contact-box
 {
-    width: 1000;
-    background-color: #f9f9f9;
-    box-shadow: 0 0 20px 0;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    position: absolute;
+    display: flex;
+    margin: 500px;
+    
+    flex-wrap: wrap;
     
 }
 
+.contact-box p{
+    margin-bottom: 10px;
+}
 
 form{
-    margin: 100px 100px;
+    padding-top: 10px;
+
+    
+    
 }
 
 
 .inputs
 {
     width:400px;
-    height; 40px;
+    height: 40px;
+
 }
 
 
