@@ -99,6 +99,8 @@ During the testing i realised ths social media platform icons in the contact us 
 
 There were also several times when the heading of the text is behind the navigation bar, I had to adjust the margin & padding to make it visible.
 
+I encounted problem when linking folders to in html for images and css, even after using assets/png/image.png
+
 initially, I couldn't make my images responsive till I used flex-wrap: wrap;
 
 ## Credits
@@ -131,8 +133,6 @@ Icons of Social Media Platforms were obtained from
 [Instagram icon](https://www.flaticon.com/free-icon/instagram_4770100)
 [Telegram icon](https://www.iconsdb.com/orange-icons/telegram-3-icon.html)
 [Whatapps icon](https://icones.pro/en/whatsapp-orange-logo-icon/)
-[Checkbox icon](https://icon-icons.com/icon/checkbox/149960)
-
 
 ### Acknowledgements
 
