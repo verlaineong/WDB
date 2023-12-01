@@ -6,11 +6,9 @@
     <meta name="viewport" content="width=device-width">
     <title>Contact Form</title>
     <link rel="stylesheet" href="Styles.css" type="text/css">
-    <script src = "Script.js"></script>
-
 </head>
 
-
+<!-- start of navigation bar -->
 <body>
     <header>
         <div class="logo">
@@ -27,10 +25,14 @@
             </nav>
         </div>
     </header>
-    
+    <!-- end of navigation bar -->
+
     <div class = "buddies">
-        <h1>Look it down here to refer to our lovely buddies!</h1>
+        <h1>Look it down here to refer to our lovely buddies!</h1>  <!-- Title of the page -->
     </div>
+
+    
+    <!-- start of flex box images -->
 
     <div class = "container">
 
@@ -64,7 +66,9 @@
             <a href= "">Pudding</a>
         </div>
     </div>
-   
+    <!-- end of flex box images -->
+
+    <!-- start of flex box for application form -->
         <div class="container">
             <div class="card4">
                 <p>Name:</p>
@@ -76,9 +80,38 @@
                 <p>Tell us who is your choosen buddy :D</p>
                 <textarea type = "text" class = "inputs"></textarea>
                 <p>By submitting this form, I acknowledge that the information provided is accurate, and I understand and agree to the terms and conditions of Rent Buddy's pet rental service. I agree to provide a loving and safe environment for the rented pet.</p>
-                <input type="checkbox">   
+                <input type="checkbox">
+                <button id="Submit">Submit</button>
         </div>
-    </div>
+        <!-- end of flex box for application form --> 
+        
+        <!-- Platforms icon -->
+        <section class = "ending">
+            <h2>Connect With Us</h2>
+            <div class = "platforms">
+                <a href="https://www.instagram.com/accounts/login/"><img src="instagram.png"  width="50" height="50"></a>
+                <a href="https://www.whatsapp.com/"><img src="whatapps.png"  width="50" height="50"></a>
+                <a href="https://web.telegram.org/"><img src="telegram.png"  width="50" height="50"></a>
+            </div>
+        </section>
+        
+        <!-- 6 dogs image at the bottom of the page -->		
+        <section class="title">
+            <div class="mainpic">
+                <img src="IMG_1275.PNG" width="1700" height="559" alt="Another Main Image">
+            </div>
+        </section>   
+        
+
+        <!-- Pop up message from submit button-->
+        <div class = "pop" id = "pop"> 
+            <div class ="content">
+            <p>Thank you for choosing Rent Buddy! We will review your application and contact you soon! 😊</p>
+            <button id="Close">Okay!😁</button>
+            
+            <script src = "Script.js"></script>
+        </div>
+        
 </body>
 
 </html>

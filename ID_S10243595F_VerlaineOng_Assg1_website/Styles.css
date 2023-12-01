@@ -117,6 +117,10 @@ p{
 
 }
 
+a {
+    color: #df7e3e;
+}
+
  /* text alignment for the heading in buddies page  */
 .buddies{                        
     margin : 200px 100px;       
@@ -321,7 +325,36 @@ text right below the flex image for the
     margin-bottom: 15px; /* the text are far apart from the text box so I bring it closer using this way */
 }
 
+/* start of pop up submission message */
+.pop {
+    background-color: white;
+    opacity: 0; /* hide pop up */
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    transition: all 0.3s ease-in-out;
+    z-index: -1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
+.pop.open{
+    opacity: 1;   /*reveal the pop up */
+    z-index: 999;
+
+}
+
+/* content alignment */
+.content{
+    padding: 15px 25px;
+    text-align: center;
+    width: 380px;
+}
+
+/* end of pop up submission message */
 
 
 
