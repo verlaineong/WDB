@@ -64,11 +64,15 @@ About - Allows users who are curious about how the brand started to read about t
 
 Click here  - Allows users who are in the dog information page to easily navigate to the application form.
 
+Rent a "dog"- Allows users to directly navigate to the dog catalogue page.
+
 Dog catalog - Allows users to visit the page with information of the dog breed they want to view.
 
 Social Media icon - Allows users to navigate to the company's social media page.
 
 Brand logo - Allows user to navigate to homepage.
+
+Submit buttom - Allows user to submit an application form.
 
 ## Technologies Used
 
