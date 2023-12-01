@@ -13,16 +13,18 @@ header {
 }
 
 
+/* This code is to align the text on my nav bar */
 header {
     position: fixed;
     width: 100%;
     padding: 30px 100px;
-    display: flex;
     justify-content: space-between;
     align-items: center;
     z-index: 100;
 }
 
+
+/*This code is to remove any default margin/ padding for the entire page */
 *{
     margin: 0;
     padding: 0;
@@ -49,7 +51,7 @@ header {
     color: #f9f9f9;
 }
 
-
+/* This code is to align my image with 6 dogs at the end of every page */
 /* 6  dogs images setting */
 .title {
     margin-top: 0;
@@ -72,9 +74,7 @@ header {
       padding-top: 0px; 
     }
 
-    .end {
-        padding-top: 0px;
-    }
+    
 
 
 
@@ -92,7 +92,7 @@ p {
     margin-bottom: 70px; /* Add the spacing in between paragraphs */
 }
 
-
+/* These codes are just applying colours and aligning the margin */
 h1{
 
     margin-bottom: 60px; 
@@ -122,7 +122,6 @@ p{
     margin : 200px 100px;       
     text-align: center;
     display: block;
-  
 
     
 }
@@ -131,11 +130,12 @@ p{
 
 
 /* this is the start of cards settings */
+/* This are flex boxes for my images */
 
   .container {
     display: flex; /* split them up to side by side */
     justify-content: center; /* centralise the card to the middle of the page*/ 
-    flex-wrap: wrap;
+    flex-wrap: wrap; /* so they are responsive when I make the page smaller */
   }
 
 /* settings for the card */
@@ -162,7 +162,7 @@ p{
 
  }
 
-/* The 3 dogs image */
+/* The 3 dogs image in the homepage */
  .img1 {
     background-image: url('IMG_1154.JPG')
  }
@@ -222,6 +222,9 @@ p{
     background-size: cover;
 }
 
+/* This is to align the 
+text right below the flex image for the 
+2 dogs in homepage */
 .card2 p{
         padding: 30px 40px;
         text-align: center;
@@ -229,6 +232,7 @@ p{
         color: #df7e3e;
         position: relative;
 }
+
 
 .card2 h3{
         text-align: center;
@@ -239,12 +243,12 @@ p{
 
 
 .testimonials {
-    padding: 100px;           /* padding for testimonials part */
+    padding: 100px;    /* padding for testimonials text*/
 }
 
 
 
-/* only for the margin in #buddies page */
+/* only for the flex images in #buddies page */
 .card3 {
     background:#fbdaa6;
     width: 370px;
@@ -255,11 +259,12 @@ p{
 .card3 a {
     padding: 15px 20px;
     text-align: center;
-    display: block;
+    display: block;  /* display the text in the middle instead of the left side */
     color: #df7e3e;
 
  }
 
+ /* start of 6 dogs pictures catalogue */
 .cata1 {
     background-image: url('dog3.jpg')
  }
@@ -286,14 +291,13 @@ p{
  .cata6 {
     background-image: url('dog4.jpg')
  }
-
-
+/* start of 6 dogs pictures catalogue */
 
 /* this is the end start of cards settings */
 
 
 .ending h2{
-    padding-bottom: 15px;  /* padding for text and social icons*/
+    padding-bottom: 15px;  /* padding for text on top  social icons*/
  
 }
 
@@ -314,7 +318,7 @@ p{
 }
 
 .card4 p{
-    margin-bottom: 15px;
+    margin-bottom: 15px; /* the text are far apart from the text box so I bring it closer using this way */
 }
 
 
