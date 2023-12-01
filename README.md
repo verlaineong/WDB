@@ -8,7 +8,7 @@ Our pet rental service allows you to "test-drive" the experience of owning a dog
 
 ## Design Process
 
-User audience may be individuals or families looking to experience the pleasure of having a pet without the long term commitment. The website serves as a platform for users to explore our catalogue of friendly companions, showcasing the variety of pets available for rental. Visitors can discover the different dog breeds we offer and learn about the numerous benefits of choosing our pet rental service. Additionally, the website provides functionality for users to easily make bookings. The website is targeted to people who are interested in booking their time with our rental dogs / interested in knowing more about our brand or dogs available to be rented.
+User audience may be individuals or families looking to experience the pleasure of having a pet without the long term commitment. The website serves as a platform for users to explore our catalogue of friendly companions, showcasing the variety of pets available for rental. Visitors can discover the different dog breeds we offer and learn about the numerous benefits of choosing our pet rental service. Additionally, the website provides functionality for users to easily make bookings/contact. The website is targeted to people who are interested in booking their time with our rental dogs / interested in knowing more about our brand or dogs available to be rented.
 
 
 **User Stories**
