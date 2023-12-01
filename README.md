@@ -78,6 +78,23 @@ Submit buttom - Allows user to submit an application form.
 
 ## Testing
 
+1. contact form
+   when you press submit button for the contact form a message will pop up, informing the user that the submission was successful.
+   
+3. flex boxes of images and navigation text
+
+    On desktop
+   ![Screenshot 2023-12-01 180548](https://github.com/verlaineong/WDB/assets/149797881/fd215f58-207f-4b5b-b91a-059a80e6b460)
+
+    On mobile
+
+   
+   ![Screenshot 2023-12-01 180621](https://github.com/verlaineong/WDB/assets/149797881/06781a81-bde9-48bc-9dfb-1877b65c9b11)
+   
+
+During the testing i realised ths social media platform icons in the contact us page is not properly aligned to the bottom left ( below the contact form )
+There were also several times when the heading of the text is behind the navigation bar, I had to adjust the margin & padding to make it visible.
+
 ## Credits
 
 ### Content
