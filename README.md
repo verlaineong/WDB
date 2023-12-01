@@ -24,13 +24,11 @@ User audience may be individuals or families looking to experience the pleasure 
 **Wireframes**
 
 Desktop
-![Screenshot 2023-11-11 183539](https://github.com/verlaineong/WDB/assets/149797881/553c330b-6a0f-4fac-b3b7-2216c1291632)
+![Screenshot 2023-12-01 182439](https://github.com/verlaineong/WDB/assets/149797881/6f32e849-516c-4113-a3a8-4c94c2ea9f4a)
 
 Mobile
-![Screenshot 2023-11-11 183603](https://github.com/verlaineong/WDB/assets/149797881/42d3b04b-a91d-4112-ac2a-f7ad2338483e)
+![Screenshot 2023-12-01 182457](https://github.com/verlaineong/WDB/assets/149797881/ca88fd6e-55ed-4a9f-a583-0c903136d1fe)
 
-
-*insert adobe wireframe link here*
 
 **Reason behind my design**
 
@@ -47,9 +45,10 @@ I want my website layout to look clean and simple. The goal is to provide just t
 
 
 
-![Screenshot 2023-11-11 205418](https://github.com/verlaineong/WDB/assets/149797881/a622b15c-6674-41b2-a733-16401234a2d0)
+![Screenshot 2023-12-01 183954](https://github.com/verlaineong/WDB/assets/149797881/b4aae5f2-885e-4189-a745-6a73547905f9)
 
-When designing the website, I took the booking process user-friendliness into consideration. Users can select their preferred dog for renting, and to facilitate this, I included visual ads with images. Currently, there is one dog available for each breed. However, considering future expansions with more dogs, users may not easily recall each dog's name and might need to repeatedly check back.
+
+When designing the website, I took the booking process user-friendliness into consideration. Users can select their preferred dog for renting, and to facilitate this, I included visual ads with images on top of the form. Currently, there is one dog available for each breed. However, considering future expansions with more dogs, users may not easily recall each dog's name and might need to repeatedly check back.
 
 
 
@@ -75,6 +74,10 @@ Brand logo - Allows user to navigate to homepage.
 Submit buttom - Allows user to submit an application form.
 
 ## Technologies Used
+language : Html, css and javascript
+
+[Google Font (Poppins)](https://fonts.google.com/specimen/Poppins)
+
 
 ## Testing
 
@@ -93,7 +96,10 @@ Submit buttom - Allows user to submit an application form.
    
 
 During the testing i realised ths social media platform icons in the contact us page is not properly aligned to the bottom left ( below the contact form )
+
 There were also several times when the heading of the text is behind the navigation bar, I had to adjust the margin & padding to make it visible.
+
+initially, I couldn't make my images responsive till I used flex-wrap: wrap;
 
 ## Credits
 
