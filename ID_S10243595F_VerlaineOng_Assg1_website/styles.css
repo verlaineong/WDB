@@ -1,0 +1,336 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+header {
+    background-color: #FFEFE5; /* navigation bar */
+    padding: 40px;
+    position: fixed;
+    display:flex;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+/* This code is to align the text on my nav bar */
+header {
+    position: fixed;
+    width: 100%;
+    padding: 30px 100px;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+/*This code is to remove any default margin/ padding for the entire page */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins';
+}
+
+/* setting for navigation back features */
+.navigation a{
+    text-decoration: none;
+    color: #df7e3e;
+    padding: 1px 15px;
+    border-radius: 20px;
+    margin: 0 10px;
+    font-weight: 600;
+}
+
+.navigation a:hover {              /* when you hover the content on the navigation bar, will show a box hightlight*/
+    background:  #f3ad7e;
+    color: #f9f9f9;
+}
+
+/* This code is to align my image with 6 dogs at the end of every page */
+/* 6  dogs images setting */
+.main {
+    margin-top: 0;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+.mainpic img {
+    width: 100%;
+    height: auto
+  }
+
+/* mobile responsiveness */
+  @media (max-width: 768px) {
+    .title {
+      padding-top: 0px; 
+    }
+  }
+
+  /* setting position for the paragraph */
+.paragraph {
+    position: relative;
+    background:#f0c47d;
+    padding: 170px 100px ;
+}
+
+p {
+    margin-bottom: 70px; /* Add the spacing in between paragraphs */
+}
+
+/* These codes are just applying colours and aligning the margin */
+h1{
+
+    margin-bottom: 60px; 
+}
+h2{
+    color: #df7e3e;
+
+}
+
+h1{
+    color: #df7e3e;
+}
+
+h3{
+    color: #df7e3e; 
+}
+
+p{
+    color:#df7e3e;
+
+}
+
+a {
+    color: #df7e3e;
+}
+
+ /* text alignment for the heading in buddies page  */
+.buddies{                        
+    margin : 200px 100px;       
+    text-align: center;
+    display: block;   
+}
+
+/* this is the start of cards settings */
+/* This are flex boxes for my images */
+
+  .container {
+    display: flex; /* split them up to side by side */
+    justify-content: center; /* centralise the card to the middle of the page*/ 
+    flex-wrap: wrap; /* so they are responsive when I make the page smaller */
+  }
+
+/* settings for the card */
+  .card {
+    background:#f0c47d;
+    width: 250px;
+    height: 450px;
+    margin: 10px; /* give the card space between each other */ 
+  }
+
+  /* settings for the image inside the card */
+ .card-img {
+    display: block;
+    background-color: #f9f9f9;
+    height: 300px;
+    margin-bottom: 15px;
+    background-size: cover;
+    background-image: center;
+ }
+
+/* The 3 dogs image in the homepage */
+ .img1 {
+    background-image: url('img1154.JPG')
+ }
+
+ .img2{
+    background-image: url('img1153.JPG')
+ }
+
+ .img3{
+    background-image: url('img1156.JPG')
+ }
+
+/* end of 3 dogs image */
+
+
+/* links inside the card */
+ .card a {
+    padding: 15px 20px;
+    text-align: center;
+    display: block;
+    color: #df7e3e;
+ }
+
+
+ /* 2 dog images at the testimonial */
+ .dog1 {
+    background-image: url('dog1.jpg')
+ }
+
+ .dog2 {
+    background-image: url('dog2.jpg')
+ }
+ /* end of 2 dog images at the testimonial */
+
+/* Testimonial cards */
+/* settings for the card */
+ .card2 {
+    background:#f0c47d;
+    width: 360px;
+    height: 550px;
+    margin: 10px; /* give the card space between each other */
+ }
+
+ /* settings for the image inside the card */
+.card-img2 {
+    display: block;
+    background-color: #f9f9f9;
+    height: 270px;
+    margin-bottom: 20px;
+    background-size: cover;
+}
+
+/* This is to align the 
+text right below the flex image for the 
+2 dogs in homepage */
+.card2 p{
+        padding: 30px 40px;
+        text-align: center;
+        display: block;
+        color: #df7e3e;
+        position: relative;
+}
+
+.card2 h3{
+        text-align: center;     
+}
+    
+.testimonials {
+    padding: 100px;    /* padding for testimonials text*/
+}
+
+
+/* only for the flex images in #buddies page */
+.card3 {
+    background:#fbdaa6;
+    width: 370px;
+    height: 450px;
+    margin: 10px 100px; /* give the card space between each other */
+}
+
+.card3 a {
+    padding: 15px 20px;
+    text-align: center;
+    display: block;  /* display the text in the middle instead of the left side */
+    color: #df7e3e;
+
+ }
+
+ /* start of 6 dogs pictures catalogue */
+.cata1 {
+    background-image: url('dog3.jpg')
+ }
+
+
+ .cata2 {
+    background-image: url('dog1.jpg')
+ }
+
+
+ .cata3 {
+    background-image: url('dog5.jpg')
+ }
+
+
+ .cata4 {
+    background-image: url('dog2.jpg')
+ }
+
+
+ .cata5 {
+    background-image: url('dog6.jpg')
+ }
+
+
+ .cata6 {
+    background-image: url('dog4.jpg')
+ }
+/* start of 6 dogs pictures catalogue */
+
+/* this is the end start of cards settings */
+
+
+.ending h2{
+    padding-bottom: 15px;  /* padding for text on top  social icons*/
+ 
+}
+
+.ending{  
+    
+    padding: 30px 45px;      /* padding for social media platform icons */
+
+}
+
+/* contact form style starts here */
+
+.card4 {
+    background-color: rgb(255, 219, 177);
+    width: 600px;
+    height: 800px;
+    margin: 100px 200px; /* give the card space between each other */
+    padding: 90px 100px;
+}
+
+.card4 p{
+    margin-bottom: 15px; /* the text are far apart from the text box so I bring it closer using this way */
+}
+
+/* start of pop up submission message */
+.pop {
+    background-color: white;
+    opacity: 0; /* hide pop up */
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    transition: all 0.3s ease-in-out;
+    z-index: -1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pop.open{
+    opacity: 1;   /*reveal the pop up */
+    z-index: 999;
+}
+
+/* content alignment */
+.content{
+    padding: 15px 25px;
+    text-align: center;
+    width: 380px;
+}
+
+/* end of pop up submission message */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
